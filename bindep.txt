@@ -1,0 +1,4 @@
+gcc
+python39-devel
+krb5-workstation
+krb5-devel
